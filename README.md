@@ -28,7 +28,7 @@ The files in this folder contain everything you need to run your app:
 
 From Code Authors (Me!):
 
-* Made using Code.org's App Lab. See product at muy31.github.io/maze-walker
+* Made using Code.org's App Lab. See product at [muy31.github.io/Maze_Walker/](https://muy31.github.io/Maze_Walker/)
 
 This is a little widget that utilizes (and gives a visualization of) one of many different algorithms for pathfinding.
 
